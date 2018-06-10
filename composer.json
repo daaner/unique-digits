@@ -2,7 +2,7 @@
     "name": "daaner/unique-digits",
     "description": "Creating a digital value for different needs (ticket numbers and others) for PHP.",
     "license" : "MIT",
-    "version": "1.1",
+    "version": "1.0.2",
     "require": {
         "php": ">=5.4",
         "ext-iconv": "*"
