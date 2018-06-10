@@ -1,4 +1,8 @@
 # UniqueDigits (for Laravel and another php based code)
+[![Packagist License](https://poser.pugx.org/daaner/unique-digits/license.png)](http://choosealicense.com/licenses/mit/)
+[![Latest Stable Version](https://poser.pugx.org/daaner/unique-digits/v/stable)](https://packagist.org/packages/daaner/unique-digits)
+[![Build Status](https://travis-ci.com/daaner/unique-digits.svg?branch=master)](https://travis-ci.com/daaner/unique-digits)
+[![Total Downloads](https://poser.pugx.org/daaner/unique-digits/downloads)](https://packagist.org/packages/daaner/unique-digits)
 
 
 ## About
